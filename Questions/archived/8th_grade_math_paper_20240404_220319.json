@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "question": "  What is the value of x in the equation 3x + 5 = 17?",
+        "answers": [
+            "4",
+            "5",
+            "7",
+            "6"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 2,
+        "question": "  What is the square root of 144?",
+        "answers": [
+            "12",
+            "144",
+            "11",
+            "14"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 3,
+        "question": "  Which of the following is a prime number?",
+        "answers": [
+            "12",
+            "9",
+            "7",
+            "14"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 4,
+        "question": "  What is the order of operations used to solve the expression 3 + 5 * 2?",
+        "answers": [
+            "Addition, Multiplication",
+            "Multiplication, Subtraction",
+            "Division, Addition",
+            "Multiplication, Addition"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 5,
+        "question": "  What is the perimeter of a rectangle with length 6 cm and width 4 cm?",
+        "answers": [
+            "10 cm",
+            "20 cm",
+            "12 cm",
+            "24 cm"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 6,
+        "question": "  What is the volume of a cube with side length of 3 cm?",
+        "answers": [
+            "6 cm^3",
+            "27 cm^3",
+            "9 cm^3",
+            "18 cm^3"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 7,
+        "question": "  Jack buys a shirt for $25 and a pair of shoes for $40. How much does he spend in total?",
+        "answers": [
+            "$45",
+            "$55",
+            "$65",
+            "$75"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 8,
+        "question": "  If the angle of a triangle are 60\u00b0, 80\u00b0, and x, what is the value of x?",
+        "answers": [
+            "50\u00b0",
+            "30\u00b0",
+            "40\u00b0",
+            "60\u00b0"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 9,
+        "question": "  What is the least common multiple of 6 and 8?",
+        "answers": [
+            "14",
+            "24",
+            "16",
+            "18"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 10,
+        "question": "  Solve for y in the equation y/3 = 12.",
+        "answers": [
+            "4",
+            "9",
+            "30",
+            "36"
+        ],
+        "correct_answer": 3
+    }
+]

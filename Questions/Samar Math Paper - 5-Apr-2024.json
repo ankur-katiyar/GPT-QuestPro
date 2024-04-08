@@ -1,0 +1,552 @@
+[
+    {
+        "id": 1,
+        "question": "  What is the value of sin(90 degrees)?",
+        "answers": [
+            "1",
+            "0",
+            "-1",
+            "Undefined"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 2,
+        "question": "  Which of the following is the correct expansion of (x + 2)(x - 3)?",
+        "answers": [
+            "x^2 - 5",
+            "x^2 - x - 6",
+            "x^2 + x - 6",
+            "x^2 - 5x + 6"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 3,
+        "question": "  Solve the following quadratic equation for x: x^2 + 5x + 6 = 0",
+        "answers": [
+            "x = -6, -1",
+            "x = -3, -2",
+            "x = 3, 2",
+            "x = -2, 3"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 4,
+        "question": "  What is the solution to the equation 2x - 5 = 3x + 2?",
+        "answers": [
+            "x = -7",
+            "x = 7",
+            "x = -7/5",
+            "x = 7/5"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 5,
+        "question": "  If the hypotenuse of a right triangle is 10 and one of the legs is 6, what is the length of the other leg?",
+        "answers": [
+            "6",
+            "4",
+            "8",
+            "5"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 6,
+        "question": "  In a right triangle XYZ, angle X measures 30 degrees, and the length of side YZ is 6 cm. Calculate the length of side XZ?",
+        "answers": [
+            "6 cm",
+            "12 cm",
+            "3 cm",
+            "6\u221a3 cm"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 7,
+        "question": "  Solve for x: 3x + 12 = 2(x + 9)",
+        "answers": [
+            "x = 6",
+            "x = -30",
+            "x = 30",
+            "x = -6"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 8,
+        "question": "  If sin(theta) = 3/5, what is cos(theta)?",
+        "answers": [
+            "5/3",
+            "-4/5",
+            "3/5",
+            "4/5"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 9,
+        "question": "  Factor the following quadratic expression: x^2 + 7x + 10",
+        "answers": [
+            "(x + 2)(x - 5)",
+            "(x - 2)(x - 5)",
+            "(x - 2)(x + 5)",
+            "(x + 2)(x + 5)"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 10,
+        "question": "  What is the sum of the interior angles of a polygon with 8 sides?",
+        "answers": [
+            "120 degrees",
+            "1080 degrees",
+            "720 degrees",
+            "360 degrees"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 11,
+        "question": "  What is the sine function used for in trigonometry?",
+        "answers": [
+            "Finding the area of a triangle",
+            "Finding the length of the hypotenuse",
+            "Finding the ratio of the adjacent side to the hypotenuse",
+            "Finding the ratio of the opposite side to the hypotenuse"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 12,
+        "question": "  What is the solution to the equation 2x + 5 = 17?",
+        "answers": [
+            "x = 9",
+            "x = 7",
+            "x = 6",
+            "x = 8"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 13,
+        "question": "  How many solutions does the quadratic equation 4x^2 - 4x + 1 = 0 have?",
+        "answers": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 14,
+        "question": "  In a right triangle, what is the relationship between the squares of the two shorter sides and the square of the hypotenuse?",
+        "answers": [
+            "They are all equal",
+            "The sum of the squares of the shorter sides equals the square of the hypotenuse",
+            "The difference of the squares of the shorter sides equals the square of the hypotenuse",
+            "There is no relationship between them"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 15,
+        "question": "  Which of the following is an example of a logic puzzle?",
+        "answers": [
+            "Solving a system of equations",
+            "Figuring out who owns the fish based on a set of clues",
+            "Calculating the area of a circle",
+            "Simplifying a polynomial"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 16,
+        "question": "  What is the value of sin(30 degrees)?",
+        "answers": [
+            "0",
+            "1",
+            "0.5",
+            "-0.5"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 17,
+        "question": "  In the equation y = 2x + 3, what is the slope of the line?",
+        "answers": [
+            "1",
+            "3",
+            "5",
+            "2"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 18,
+        "question": "  What is the solution to the equation x^2 - 4 = 0?",
+        "answers": [
+            "x = 2",
+            "x = -2",
+            "x = \u00b12",
+            "x = 4"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 19,
+        "question": "  How many sides does a regular hexagon have?",
+        "answers": [
+            "4",
+            "5",
+            "7",
+            "6"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 20,
+        "question": "  What is the value of cos(60 degrees)?",
+        "answers": [
+            "1",
+            "0.5",
+            "-0.5",
+            "0"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 21,
+        "question": "  What is the value of \u221a9 + 5^2?",
+        "answers": [
+            "24",
+            "26",
+            "28",
+            "25"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 22,
+        "question": "  What is the solution to the equation 3y - 2 = 7?",
+        "answers": [
+            "y = 2",
+            "y = 5",
+            "y = 3",
+            "y = 9"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 23,
+        "question": "  What is the area of a square with a side length of 4 units?",
+        "answers": [
+            "8 square units",
+            "12 square units",
+            "16 square units",
+            "20 square units"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 24,
+        "question": "  In a right triangle, the side opposite the right angle is known as the:",
+        "answers": [
+            "Hypotenuse",
+            "Opposite",
+            "Adjacent",
+            "Complementary"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 25,
+        "question": "  What is the value of tan(45 degrees)?",
+        "answers": [
+            "0",
+            "1",
+            "-0.5",
+            "-1"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 26,
+        "question": "  What is the sum of angles in a triangle?",
+        "answers": [
+            "90 degrees",
+            "120 degrees",
+            "180 degrees",
+            "360 degrees"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 27,
+        "question": "  What is the solution to the quadratic equation x^2 + 5x + 6 = 0?",
+        "answers": [
+            "x = -2",
+            "x = -3, -2",
+            "x = 2",
+            "x = 3"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 28,
+        "question": "  In a logic puzzle, if A = B and B = C, then A = ?",
+        "answers": [
+            "D",
+            "E",
+            "F",
+            "C"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 29,
+        "question": "  What is the value of sin(45 degrees)?",
+        "answers": [
+            "0",
+            "0.707",
+            "1",
+            "-0.707"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 30,
+        "question": "  What is 30% of 150?",
+        "answers": [
+            "45",
+            "50",
+            "55",
+            "60"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 31,
+        "question": "  If a cake is cut into 10 equal slices and 3 slices are eaten, what fraction of the cake is left?",
+        "answers": [
+            "1/3",
+            "2/5",
+            "7/10",
+            "2/3"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 32,
+        "question": "  What is 15% of 200?",
+        "answers": [
+            "25",
+            "30",
+            "35",
+            "40"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 33,
+        "question": "  If a box contains 24 pencils and 1/4 of them are blue, how many blue pencils are there?",
+        "answers": [
+            "4",
+            "6",
+            "8",
+            "10"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 34,
+        "question": "  What is 3/5 as a percentage?",
+        "answers": [
+            "40%",
+            "60%",
+            "75%",
+            "80%"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 35,
+        "question": "  If John scored 75% on a test with 80 points, how many points did he score?",
+        "answers": [
+            "55",
+            "60",
+            "65",
+            "70"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 36,
+        "question": "  What is 1/3 of 120?",
+        "answers": [
+            "30",
+            "40",
+            "50",
+            "60"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 37,
+        "question": "  If 20% of the students in a class are absent, what fraction of the students are present?",
+        "answers": [
+            "1/3",
+            "2/5",
+            "4/5",
+            "3/4"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 38,
+        "question": "  What is 72% of 250?",
+        "answers": [
+            "150",
+            "200",
+            "180",
+            "220"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 39,
+        "question": "  If Anne spent 1/4 of her allowance on a book, what fraction of her allowance is left?",
+        "answers": [
+            "1/2",
+            "2/3",
+            "3/4",
+            "4/5"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 40,
+        "question": "  What is 40% of 300?",
+        "answers": [
+            "120",
+            "140",
+            "160",
+            "180"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 41,
+        "question": "  If a recipe calls for 2/3 cup of sugar and you want to make half of the recipe, how much sugar do you need?",
+        "answers": [
+            "1/4 cup",
+            "1/3 cup",
+            "1/2 cup",
+            "2/3 cup"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 42,
+        "question": "  What is 25% of 400?",
+        "answers": [
+            "100",
+            "125",
+            "150",
+            "175"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 43,
+        "question": "  If a team won 60% of their games out of 20 games played, how many games did they win?",
+        "answers": [
+            "10",
+            "12",
+            "18",
+            "16"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 44,
+        "question": "  If 1/5 of a number is 25, what is the number?",
+        "answers": [
+            "100",
+            "110",
+            "125",
+            "150"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 45,
+        "question": "  What is 15% of 80?",
+        "answers": [
+            "10",
+            "12",
+            "15",
+            "18"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 46,
+        "question": "  If 40% of a fabric is red, what fraction of the fabric is not red?",
+        "answers": [
+            "1/4",
+            "3/5",
+            "1/3",
+            "2/3"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 47,
+        "question": "  What is 2/5 as a percentage?",
+        "answers": [
+            "30%",
+            "40%",
+            "50%",
+            "60%"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 48,
+        "question": "  If a student scored 85 out of 100 on a test, what percentage did they score?",
+        "answers": [
+            "75%",
+            "85%",
+            "90%",
+            "95%"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 49,
+        "question": "  What is the solution to the equation 2x^2 - 8 = 0?",
+        "answers": [
+            "x = \u00b15",
+            "x = \u00b13",
+            "x = \u00b12",
+            "x = \u00b14"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 50,
+        "question": "  What is 1/4 of 80?",
+        "answers": [
+            "15",
+            "20",
+            "25",
+            "30"
+        ],
+        "correct_answer": 1
+    }
+]

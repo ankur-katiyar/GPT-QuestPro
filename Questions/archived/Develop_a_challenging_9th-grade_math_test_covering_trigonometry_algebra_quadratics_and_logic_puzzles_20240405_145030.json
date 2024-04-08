@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "question": "  What is the sine function used for in trigonometry?",
+        "answers": [
+            "Finding the area of a triangle",
+            "Finding the length of the hypotenuse",
+            "Finding the ratio of the opposite side to the hypotenuse",
+            "Finding the ratio of the opposite side to the hypotenuse"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 2,
+        "question": "  What is the solution to the equation 2x + 5 = 17?",
+        "answers": [
+            "x = 9",
+            "x = 7",
+            "x = 6",
+            "x = 8"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 3,
+        "question": "  How many solutions does the quadratic equation 4x^2 - 4x + 1 = 0 have?",
+        "answers": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 4,
+        "question": "  In a right triangle, what is the relationship between the squares of the two shorter sides and the square of the hypotenuse?",
+        "answers": [
+            "They are all equal",
+            "The sum of the squares of the shorter sides equals the square of the hypotenuse",
+            "The difference of the squares of the shorter sides equals the square of the hypotenuse",
+            "There is no relationship between them"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 5,
+        "question": "  Which of the following is an example of a logic puzzle?",
+        "answers": [
+            "Solving a system of equations",
+            "Figuring out who owns the fish based on a set of clues",
+            "Calculating the area of a circle",
+            "Simplifying a polynomial"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 6,
+        "question": "  What is the value of sin(30 degrees)?",
+        "answers": [
+            "0",
+            "1",
+            "0.5",
+            "-0.5"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 7,
+        "question": "  In the equation y = 2x + 3, what is the slope of the line?",
+        "answers": [
+            "1",
+            "3",
+            "5",
+            "2"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 8,
+        "question": "  What is the solution to the equation x^2 - 4 = 0?",
+        "answers": [
+            "x = 2",
+            "x = -2",
+            "x = \u00b12",
+            "x = 4"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 9,
+        "question": "  How many sides does a regular hexagon have?",
+        "answers": [
+            "4",
+            "5",
+            "7",
+            "6"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 10,
+        "question": "  What is the value of cos(60 degrees)?",
+        "answers": [
+            "1",
+            "0.5",
+            "-0.5",
+            "0"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 11,
+        "question": "  What is the value of \u221a9 + 5^2?",
+        "answers": [
+            "24",
+            "26",
+            "28",
+            "25"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 12,
+        "question": "  What is the solution to the equation 3y - 2 = 7?",
+        "answers": [
+            "y = 2",
+            "y = 5",
+            "y = 3",
+            "y = 9"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 13,
+        "question": "  What is the area of a square with a side length of 4 units?",
+        "answers": [
+            "8 square units",
+            "12 square units",
+            "16 square units",
+            "20 square units"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 14,
+        "question": "  In a right triangle, the side opposite the right angle is known as the:",
+        "answers": [
+            "Hypotenuse",
+            "Opposite",
+            "Adjacent",
+            "Complementary"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 15,
+        "question": "  What is the value of tan(45 degrees)?",
+        "answers": [
+            "0",
+            "1",
+            "-0.5",
+            "-1"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 16,
+        "question": "  What is the sum of angles in a triangle?",
+        "answers": [
+            "90 degrees",
+            "120 degrees",
+            "180 degrees",
+            "360 degrees"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 17,
+        "question": "  What is the solution to the quadratic equation x^2 + 5x + 6 = 0?",
+        "answers": [
+            "x = -2",
+            "x = -3, -2",
+            "x = 2",
+            "x = 3"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 18,
+        "question": "  In a logic puzzle, if A = B and B = C, then A = ?",
+        "answers": [
+            "D",
+            "E",
+            "F",
+            "C"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 19,
+        "question": "  What is the value of sin(45 degrees)?",
+        "answers": [
+            "0",
+            "0.707",
+            "1",
+            "-0.707"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 20,
+        "question": "  What is the solution to the equation 2x^2 - 8 = 0?",
+        "answers": [
+            "x = \u00b15",
+            "x = \u00b13",
+            "x = \u00b12",
+            "x = \u00b14"
+        ],
+        "correct_answer": 2
+    }
+]

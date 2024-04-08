@@ -1,0 +1,222 @@
+[
+    {
+        "id": 29,
+        "question": "  What is 1/4 of 80?",
+        "answers": [
+            "15",
+            "20",
+            "25",
+            "30"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 30,
+        "question": "  What is 30% of 150?",
+        "answers": [
+            "45",
+            "50",
+            "55",
+            "60"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 31,
+        "question": "  If a cake is cut into 10 equal slices and 3 slices are eaten, what fraction of the cake is left?",
+        "answers": [
+            "1/3",
+            "2/5",
+            "7/10",
+            "2/3"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 32,
+        "question": "  What is 15% of 200?",
+        "answers": [
+            "25",
+            "30",
+            "35",
+            "40"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 33,
+        "question": "  If a box contains 24 pencils and 1/4 of them are blue, how many blue pencils are there?",
+        "answers": [
+            "4",
+            "6",
+            "8",
+            "10"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 34,
+        "question": "  What is 3/5 as a percentage?",
+        "answers": [
+            "40%",
+            "60%",
+            "75%",
+            "80%"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 35,
+        "question": "  If John scored 75% on a test with 80 points, how many points did he score?",
+        "answers": [
+            "55",
+            "60",
+            "65",
+            "70"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 36,
+        "question": "  What is 1/3 of 120?",
+        "answers": [
+            "30",
+            "40",
+            "50",
+            "60"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 37,
+        "question": "  If 20% of the students in a class are absent, what fraction of the students are present?",
+        "answers": [
+            "1/3",
+            "2/5",
+            "4/5",
+            "3/4"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 38,
+        "question": "  What is 72% of 250?",
+        "answers": [
+            "150",
+            "200",
+            "180",
+            "220"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 39,
+        "question": "  If Anne spent 1/4 of her allowance on a book, what fraction of her allowance is left?",
+        "answers": [
+            "1/2",
+            "2/3",
+            "3/4",
+            "4/5"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 40,
+        "question": "  What is 40% of 300?",
+        "answers": [
+            "120",
+            "140",
+            "160",
+            "180"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 41,
+        "question": "  If a recipe calls for 2/3 cup of sugar and you want to make half of the recipe, how much sugar do you need?",
+        "answers": [
+            "1/4 cup",
+            "1/3 cup",
+            "1/2 cup",
+            "2/3 cup"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 42,
+        "question": "  What is 25% of 400?",
+        "answers": [
+            "100",
+            "125",
+            "150",
+            "175"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 43,
+        "question": "  If a team won 60% of their games out of 20 games played, how many games did they win?",
+        "answers": [
+            "10",
+            "12",
+            "18",
+            "16"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 44,
+        "question": "  If 1/5 of a number is 25, what is the number?",
+        "answers": [
+            "100",
+            "110",
+            "125",
+            "150"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 45,
+        "question": "  What is 15% of 80?",
+        "answers": [
+            "10",
+            "12",
+            "15",
+            "18"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 46,
+        "question": "  If 40% of a fabric is red, what fraction of the fabric is not red?",
+        "answers": [
+            "1/4",
+            "3/5",
+            "1/3",
+            "2/3"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 47,
+        "question": "  What is 2/5 as a percentage?",
+        "answers": [
+            "30%",
+            "40%",
+            "50%",
+            "60%"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 48,
+        "question": "  If a student scored 85 out of 100 on a test, what percentage did they score?",
+        "answers": [
+            "75%",
+            "85%",
+            "90%",
+            "95%"
+        ],
+        "correct_answer": 1
+    }
+]

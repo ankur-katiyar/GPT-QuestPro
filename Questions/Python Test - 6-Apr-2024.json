@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "question": "What will be the output of the following code snippet?\n\n```python\nnum_list = [1, 2, 3, 4, 5]\nprint(num_list[2:4])\n```",
+        "answers": [
+            "[3, 4]",
+            "[2, 3]",
+            "[4, 5]",
+            "[3]"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 2,
+        "question": "Which of the following statements about Python's list comprehension is correct?",
+        "answers": [
+            "List comprehension can only be used with numbers",
+            "List comprehension always returns a list of the same length as the input list",
+            "List comprehension can be nested",
+            "List comprehension does not support conditional statements"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 3,
+        "question": "What will be the output of the following code snippet?\n\n```python\nlanguages = {'Python': 10, 'Java': 8, 'C++': 6}\nprint(len(languages))\n```",
+        "answers": [
+            "10",
+            "3",
+            "6",
+            "Error"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 4,
+        "question": "In Python, what is the difference between '==' and 'is' when comparing two objects?",
+        "answers": [
+            "'==' checks for equality of values, 'is' checks for object identity",
+            "'==' checks for object identity, 'is' checks for equality of values",
+            "Both '==' and 'is' check for object identity",
+            "There is no difference between '==' and 'is'"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 5,
+        "question": "What will be the output of the following code snippet?\n\n```python\nmy_string = 'hello'\nprint(my_string[1:4])\n```",
+        "answers": [
+            "'ell'",
+            "'ell'",
+            "'llo'",
+            "'ello'"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 6,
+        "question": "When is it appropriate to use a 'try-except' block in Python?",
+        "answers": [
+            "To handle errors that may occur during runtime",
+            "To skip a specific block of code",
+            "To exit a loop",
+            "To define a function"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 7,
+        "question": "Which of the following is NOT a standard data type in Python?",
+        "answers": [
+            "Integer",
+            "Array",
+            "Float",
+            "Boolean"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 8,
+        "question": "What will be the output of the following code snippet?\n\n```python\nx = 5\ny = 2\nprint(x // y)\n```",
+        "answers": [
+            "2.5",
+            "3",
+            "2.0",
+            "2"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 9,
+        "question": "What is the main purpose of using 'virtual environments' in Python development?",
+        "answers": [
+            "To execute Python code on a virtual server",
+            "To isolate project dependencies and create an isolated environment for each project",
+            "To run Python code on cloud platforms",
+            "To optimize code performance"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 10,
+        "question": "What will be the value of x after the following code snippet is executed?\n\n```python\nx = 3\nx += 5\nx *= 2\n```",
+        "answers": [
+            "16",
+            "10",
+            "11",
+            "13"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 11,
+        "question": "In Python, how can you check the type of a variable during runtime?",
+        "answers": [
+            "Using the method 'variable_type()'",
+            "Python does not allow checking variable types during runtime",
+            "Using the 'type()' function",
+            "Iterating through all elements of a variable"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 12,
+        "question": "What does the 'pass' statement do in Python?",
+        "answers": [
+            "Exits the current loop",
+            "Nothing, it is just a placeholder and does nothing",
+            "Generates a runtime error",
+            "Skips the rest of the code in the current block"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 13,
+        "question": "Which of the following is NOT a valid way to comment a single line of code in Python?",
+        "answers": [
+            "Using a hash symbol (#)",
+            "Using a semicolon (;)",
+            "Using triple quotes (''' or '')",
+            "Using double slash characters (//)"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 14,
+        "question": "What will be the output of the following code snippet?\n\n```python\nnum = '123'\nnum += '4'\nprint(num)\n```",
+        "answers": [
+            "127",
+            "4",
+            "1234",
+            "124"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 15,
+        "question": "In Python, what will happen if you try to convert a string containing letters to an integer?",
+        "answers": [
+            "It will raise an error",
+            "It will return 0",
+            "It will return the ASCII value of the first character",
+            "It will convert the string to a list"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 16,
+        "question": "What is the primary benefit of using 'f-strings' in Python for string formatting?",
+        "answers": [
+            "They allow for easy concatenation of strings",
+            "They provide more security for sensitive information",
+            "They are more memory-efficient than other string formatting methods",
+            "They offer a readable and concise way to embed expressions inside string literals"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 17,
+        "question": "What will be the output of the following code snippet?\n\n```python\nmy_list = [1, 2, 3, 4, 5]\nprint(my_list[-1])\n```",
+        "answers": [
+            "5",
+            "1",
+            "4",
+            "3"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 18,
+        "question": "Which of the following is true about Python's 'lambda' functions?",
+        "answers": [
+            "Lambda functions can have multiple return statements",
+            "Lambda functions are used to define large and complex functions",
+            "Lambda functions can only be used with built-in Python functions",
+            "Lambda functions can take any number of arguments but only have one expression"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 19,
+        "question": "What will be the output of the following code snippet?\n\n```python\ndef double(x):\n    return x * 2\n\nresult = double(3) + double(4)\nprint(result)\n```",
+        "answers": [
+            "8",
+            "14",
+            "12",
+            "6"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 20,
+        "question": "What is the purpose of the 'finally' block in a 'try-except-finally' construct in Python?",
+        "answers": [
+            "To catch specific exceptions",
+            "To execute a block of code regardless of whether an exception has been raised or not",
+            "To skip the rest of the code and continue to the next iteration",
+            "To return a value from a function"
+        ],
+        "correct_answer": 1
+    }
+]

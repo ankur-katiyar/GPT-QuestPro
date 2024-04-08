@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "question": "What is the value of sin(90 degrees)?",
+        "answers": [
+            "1",
+            "0",
+            "-1",
+            "Undefined"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 2,
+        "question": "Simplify the expression: 3x + 2y - 5x + y",
+        "answers": [
+            "-2x + 3y",
+            "-2x - y",
+            "2x + 3y",
+            "-8x - 6y"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 3,
+        "question": "What is the solution to the quadratic equation x^2 - 5x + 6 = 0?",
+        "answers": [
+            "x = -2, x = 3",
+            "x = -3, x = -2",
+            "x = 2, x = 3",
+            "x = 1, x = 6"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 4,
+        "question": "If A \u2228 B is false and A \u2192 B is true, what can you conclude?",
+        "answers": [
+            "A is true, B is false",
+            "A is false, B is true",
+            "A and B are both true",
+            "A and B are both false"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 5,
+        "question": "What is 3/4 as a decimal?",
+        "answers": [
+            "0.75",
+            "0.25",
+            "0.3",
+            "0.5"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 6,
+        "question": "What is 40% of 250?",
+        "answers": [
+            "100",
+            "60",
+            "140",
+            "25"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 7,
+        "question": "In a right-angled triangle, what is the relationship between the lengths of the sides a, b, and c?",
+        "answers": [
+            "a^2 + b^2 = c^2",
+            "a + b = c",
+            "a^3 = b^3 + c^3",
+            "a = b + c"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 8,
+        "question": "Solve for x: 2x + 5 = 17",
+        "answers": [
+            "x = 10",
+            "x = 6",
+            "x = 12",
+            "x = 7"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 9,
+        "question": "What is the perimeter of a rectangle with length 6 cm and width 4 cm?",
+        "answers": [
+            "20 cm",
+            "24 cm",
+            "18 cm",
+            "14 cm"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 10,
+        "question": "If a car travels at 60 km/h for 3 hours, how far does it travel?",
+        "answers": [
+            "180 km",
+            "120 km",
+            "90 km",
+            "150 km"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 11,
+        "question": "Simplify the expression: 2(3x - 4) + 5",
+        "answers": [
+            "6x - 3",
+            "6x + 3",
+            "5x - 3",
+            "5x + 3"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 12,
+        "question": "What is the value of cos(0 degrees)?",
+        "answers": [
+            "1",
+            "0",
+            "-1",
+            "Undefined"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 13,
+        "question": "If 20% of a number is 30, what is the number?",
+        "answers": [
+            "100",
+            "150",
+            "70",
+            "90"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 14,
+        "question": "What is the sum of the interior angles of a triangle?",
+        "answers": [
+            "180 degrees",
+            "90 degrees",
+            "270 degrees",
+            "360 degrees"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 15,
+        "question": "Factorize the expression: x^2 - 4",
+        "answers": [
+            "(x - 2)(x - 2)",
+            "(x + 2)(x - 2)",
+            "(x - 2)(x + 3)",
+            "(x + 2)(x + 2)"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 16,
+        "question": "Solve for x: 4(x - 3) = 20",
+        "answers": [
+            "x = 7",
+            "x = 8",
+            "x = 9",
+            "x = 10"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 17,
+        "question": "What is the area of a square with side length 5 cm?",
+        "answers": [
+            "20 cm^2",
+            "25 cm^2",
+            "30 cm^2",
+            "15 cm^2"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 18,
+        "question": "If a box contains 12 red, 8 blue, and 5 green marbles, what is the probability of drawing a red marble?",
+        "answers": [
+            "30%",
+            "45%",
+            "48%",
+            "50%"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 19,
+        "question": "Which of the following is a prime number?",
+        "answers": [
+            "12",
+            "15",
+            "19",
+            "21"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 20,
+        "question": "What is the volume of a cube with side length 3 cm?",
+        "answers": [
+            "27 cm^3",
+            "18 cm^3",
+            "21 cm^3",
+            "30 cm^3"
+        ],
+        "correct_answer": 0
+    }
+]

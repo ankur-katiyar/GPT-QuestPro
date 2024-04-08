@@ -1,0 +1,31 @@
+import openai
+import streamlit as st
+
+from app.app import get_app
+
+OPENAI_TOKEN = "OPENAI_TOKEN"
+OPENAI_ORG = "OPENAI_ORG"
+
+
+def initial_config():
+    """
+    Initial configuration of OpenAI API and streamlit
+    """
+    openai.organization = st.secrets[OPENAI_ORG]
+    openai.api_key = st.secrets[OPENAI_TOKEN]
+
+    st.set_page_config(
+        page_title="GPT QuestPro",
+        page_icon=":writing_hand:",
+    )
+
+
+def main():
+    initial_config()
+
+    app = get_app()
+    app.render()
+
+
+if __name__ == '__main__':
+    main()

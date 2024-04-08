@@ -1,0 +1,277 @@
+[
+    {
+        "id": 1,
+        "question": "In a right triangle, which trigonometric ratio represents the ratio of the side adjacent to an angle to the hypotenuse?",
+        "answers": [
+            "Sine",
+            "Cosine",
+            "Tangent",
+            "Cosecant"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 2,
+        "question": "Simplify the expression: 3(x + 2) - 2(3x - 5)",
+        "answers": [
+            "5x + 4",
+            "-3x + 11",
+            "5x - 11",
+            "-3x - 4"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 3,
+        "question": "What is the solution to the quadratic equation x^2 - 5x + 6 = 0?",
+        "answers": [
+            "x = 2, x = 3",
+            "x = 3, x = 2",
+            "x = -2, x = -3",
+            "x = -3, x = -2"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 4,
+        "question": "In a logic puzzle, if all A are B, and all B are C, then what can be concluded?",
+        "answers": [
+            "All A are C",
+            "All C are A",
+            "All A are B",
+            "All B are A"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 5,
+        "question": "What is 3/4 as a decimal?",
+        "answers": [
+            "0.25",
+            "0.5",
+            "0.75",
+            "1.25"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 6,
+        "question": "Express 20% as a fraction in its simplest form.",
+        "answers": [
+            "1/20",
+            "1/10",
+            "1/4",
+            "1/5"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 7,
+        "question": "In a triangle, the sum of the interior angles is equal to:",
+        "answers": [
+            "120 degrees",
+            "90 degrees",
+            "180 degrees",
+            "360 degrees"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 8,
+        "question": "What is the value of the square root of 144?",
+        "answers": [
+            "12",
+            "11",
+            "10",
+            "9"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 9,
+        "question": "If a + b = 12 and a - b = 4, what is the value of a?",
+        "answers": [
+            "8",
+            "6",
+            "10",
+            "12"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 10,
+        "question": "What is the area of a rectangle with length 5 units and width 7 units?",
+        "answers": [
+            "21 square units",
+            "35 square units",
+            "12 square units",
+            "27 square units"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 11,
+        "question": "Which of the following is a prime number?",
+        "answers": [
+            "1",
+            "2",
+            "4",
+            "6"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 12,
+        "question": "Solve the equation 2x + 5 = 11",
+        "answers": [
+            "x = 6",
+            "x = 3",
+            "x = 5",
+            "x = 4"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 13,
+        "question": "What is the value of sin(30 degrees)?",
+        "answers": [
+            "1",
+            "0",
+            "0.5",
+            "Undefined"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 14,
+        "question": "Factorize the expression: x^2 + 5x + 6",
+        "answers": [
+            "(x + 2)(x + 3)",
+            "(x - 2)(x - 3)",
+            "(x + 1)(x + 6)",
+            "(x - 1)(x - 6)"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 15,
+        "question": "If a pizza is divided into 8 equal slices and you eat 3 slices, what fraction of the pizza have you eaten?",
+        "answers": [
+            "3/8",
+            "2/8",
+            "5/8",
+            "1/3"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 16,
+        "question": "Which of the following is an obtuse angle?",
+        "answers": [
+            "45 degrees",
+            "90 degrees",
+            "120 degrees",
+            "180 degrees"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 17,
+        "question": "Simplify: 4^2 \u00f7 4^-1",
+        "answers": [
+            "16",
+            "8",
+            "4",
+            "2"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 18,
+        "question": "What is the perimeter of a square with side length 6 units?",
+        "answers": [
+            "12 units",
+            "18 units",
+            "24 units",
+            "36 units"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 19,
+        "question": "If 2x + 3 = 11, what is the value of x?",
+        "answers": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 20,
+        "question": "What is the sum of the interior angles in a hexagon?",
+        "answers": [
+            "540 degrees",
+            "720 degrees",
+            "360 degrees",
+            "180 degrees"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 21,
+        "question": "Which of the following is an irrational number?",
+        "answers": [
+            "2",
+            "1/3",
+            "0.75",
+            "\u221a2"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 22,
+        "question": "If a basketball team wins 7 out of 10 games, what percentage of games did they win?",
+        "answers": [
+            "70%",
+            "60%",
+            "50%",
+            "80%"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "id": 23,
+        "question": "What is the area of a circle with radius 5 units (use \u03c0 = 3.14)?",
+        "answers": [
+            "15.7 square units",
+            "31.4 square units",
+            "78.5 square units",
+            "50.3 square units"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 24,
+        "question": "Solve for x: 2(x + 4) = 18",
+        "answers": [
+            "x = 7",
+            "x = 5",
+            "x = 8",
+            "x = 9"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 25,
+        "question": "What is the next number in the sequence: 2, 5, 10, 17, ___?",
+        "answers": [
+            "24",
+            "26",
+            "28",
+            "30"
+        ],
+        "correct_answer": 0
+    }
+]
