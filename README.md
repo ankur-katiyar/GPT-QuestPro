@@ -1,8 +1,6 @@
 # GPT QuestPro powered by GPT-3.5 and written in Python/Streamlit
 
-Introducing GPT QuestPro: an innovative tool harnessing the capabilities of the GPT-3.5 language model to craft dynamic multiple-choice exams.
-After generation, effortlessly take the exam directly within the application. Upon completion, a comprehensive result page summarizes your performance and offers the convenience of emailing the results to a designated email address.
-Developed using Python and Streamlit, this application simplifies the creation, personalization, and distribution of multiple-choice exams, facilitating seamless sharing with others.
+Introducing GPT-QuestPro, an innovative app designed with a personal touch. As a parent, I found myself spending countless hours creating exam papers for my 10-year-old son, only to struggle with evaluating his progress afterward. This tedious process inspired me to develop GPT-QuestPro, leveraging the power of Chat-GPT to generate multiple-choice online exams effortlessly. With just a prompt, the app crafts customized question papers, allowing my son to test his knowledge in various subjects. Not only does this save valuable time for me, but it also provides my son with an engaging learning experience while enabling me to track his improvement effectively. GPT-QuestPro transforms the way we approach learning and assessment, making education both efficient and enjoyable.
 
 ## Table of Contents
 
