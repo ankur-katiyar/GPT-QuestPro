@@ -113,6 +113,45 @@ streamlit run GPT-QuestPro.py
 
 The GPT QuestPro app should now be accessible in your web browser at `http://localhost:8501`.
 
+
+# GPT-QuestPro Sceenshots
+
+1. **Home Page**
+
+   ![Home Page](resource/GPT-QuestPro - Landing Page.png)
+   Home Page.
+
+2. **Generate Questions**
+
+   ![Generate Questions](resource/GPT-QuestPro - Landing Page.png)
+   Generate Questions by providing prompt. Change 'number of questions' and 'number of answers' as required.
+
+3. **Taking the Test**
+
+   ![Test](resource/GPT-QuestPro - Questions.png)
+   Take the test.
+
+4. **Result Page**
+
+   ![Result](resource/GPT-QuestPro - Results.png)
+   Result page - summarizes the result with an option to send the summary to an email address.
+
+5. **Clarification & Download Questions**
+
+   ![Clarification & Download Questions](resource/GPT-QuestPro - Clarification & Download Questions.png)
+   When reviewing the result, you can clarify the responses to a question or download the question in pdf format.
+
+6. **Questions Browser**
+
+   ![Questions Browser](resource/GPT-QuestPro - Questions Browser.png)
+   This page allows to take the test on a question paper that had already been generated. This allows for saving the API calls to OpenAI.
+
+7. **Questions Editor**
+
+   ![Question Editor](resource/GPT-QuestPro - QuestionEditor.png)
+   This page allows to edit questions and their responses in case Chat GPT provides incorrect answers or duplicate choices. This is frequent when dealing with math papers so always a good idea to review the questions before handing them over for examination.
+
+
 ## Contributing
 
 I welcome contributions to improve GPT QuestPro. If you'd like to contribute, please fork the repository and create a pull request with your proposed changes. I'll review and merge the changes as appropriate.
