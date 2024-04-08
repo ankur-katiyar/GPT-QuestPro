@@ -2,7 +2,7 @@
 
 Introducing GPT QuestPro: an innovative tool harnessing the capabilities of the GPT-3.5 language model to craft dynamic multiple-choice exams.
 After generation, effortlessly take the exam directly within the application. Upon completion, a comprehensive result page summarizes your performance and offers the convenience of emailing the results to a designated email address.
-Developed using Python and Streamlit, this application simplifies the creation, personalization, and distribution of quizzes, facilitating seamless sharing with others.
+Developed using Python and Streamlit, this application simplifies the creation, personalization, and distribution of multiple-choice exams, facilitating seamless sharing with others.
 
 ## Table of Contents
 
@@ -27,13 +27,13 @@ To use GPT QuestPro, you need the following:
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/ankur-katiyar/gen-exam-gpt.git
+git clone https://github.com/ankur-katiyar/GPT-QuestPro.git
 ```
 
 2. Change to the project directory:
 
 ```
-cd gen-exam-gpt
+cd GPT-QuestPro
 ```
 
 3. Create a virtual environment and activate it:
@@ -46,8 +46,8 @@ source venv/bin/activate
 Alternatively, you can use `conda` to create a virtual environment:
 
 ```
-conda create -n gen-exam-gpt python=3.9
-conda activate gen-exam-gpt
+conda create -n GPT-QuestPro python=3.9
+conda activate GPT-QuestPro
 ```
 
 4. Install the required packages from `requirements.txt`:
