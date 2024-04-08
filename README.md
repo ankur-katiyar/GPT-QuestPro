@@ -1,4 +1,4 @@
-# GPT QuestPro using GPT-3.5 and Streamlit
+# GPT QuestPro powered by GPT-3.5 and written in Python & Streamlit
 
 Introducing GPT QuestPro: an innovative tool harnessing the capabilities of the GPT-3.5 language model to craft dynamic multiple-choice exams.
 After generation, effortlessly take the exam directly within the application. Upon completion, a comprehensive result page summarizes your performance and offers the convenience of emailing the results to a designated email address.
@@ -108,7 +108,7 @@ OPENAI_ORG = <your-org>
 After installing dependencies and setting secrets, execute GPT QuestPro app by running:
 
 ```
-streamlit run main.py
+streamlit run GPT-QuestPro.py
 ```
 
 The GPT QuestPro app should now be accessible in your web browser at `http://localhost:8501`.

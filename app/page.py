@@ -193,10 +193,6 @@ def send_email(app, num_correct):
     sender_password   = config['Email']['sender_password']
     receiver_email    = config['Email']['receiver_email']
 
-    print(sender_email)
-    print(sender_password)
-    print(receiver_email)
-
     subject = "Result Summary"
     
     # Create message container
