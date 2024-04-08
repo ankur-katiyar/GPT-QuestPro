@@ -1,4 +1,4 @@
-# GPT QuestPro powered by GPT-3.5 and written in Python & Streamlit
+# GPT QuestPro powered by GPT-3.5 and written in Python/Streamlit
 
 Introducing GPT QuestPro: an innovative tool harnessing the capabilities of the GPT-3.5 language model to craft dynamic multiple-choice exams.
 After generation, effortlessly take the exam directly within the application. Upon completion, a comprehensive result page summarizes your performance and offers the convenience of emailing the results to a designated email address.
