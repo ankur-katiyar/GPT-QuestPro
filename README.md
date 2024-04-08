@@ -118,7 +118,7 @@ The GPT QuestPro app should now be accessible in your web browser at `http://loc
 
 1. **Home Page**
 
-   ![Home Page](./resources/GPT-QuestPro - Landing Page.png)
+   ![Home Page](./resources/GPT-QuestPro-Landing-Page.PNG)
    Home Page.
 
 2. **Generate Questions**
