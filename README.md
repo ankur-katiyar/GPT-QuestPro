@@ -124,7 +124,7 @@ The GPT QuestPro app should now be accessible in your web browser at `http://loc
 
 2. **Generate Questions**
 
-   ![Generate Questions](./resources/GPT-QuestPro-Landing-Page.PNG)
+   ![Generate Questions](./resources/GPT-QuestPro-Generate-Questions.PNG)
    Generate Questions by providing prompt. Change 'number of questions' and 'number of answers' as required.
 
 3. **Taking the Test**
