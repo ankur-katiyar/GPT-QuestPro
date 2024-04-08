@@ -128,27 +128,27 @@ The GPT QuestPro app should now be accessible in your web browser at `http://loc
 
 3. **Taking the Test**
 
-   ![Test](./resources/GPT-QuestPro - Questions.png)
+   ![Test](./resources/GPT-QuestPro-Questions.PNG)
    Take the test.
 
 4. **Result Page**
 
-   ![Result](./resources/GPT-QuestPro - Results.png)
+   ![Result](./resources/GPT-QuestPro-Results.PNG)
    Result page - summarizes the result with an option to send the summary to an email address.
 
 5. **Clarification & Download Questions**
 
-   ![Clarification & Download Questions](./resources/GPT-QuestPro - Clarification & Download Questions.png)
+   ![Clarification & Download Questions](./resources/GPT-QuestPro-Clarification-&-Download-Questions.PNG)
    When reviewing the result, you can clarify the responses to a question or download the question in pdf format.
 
 6. **Questions Browser**
 
-   ![Questions Browser](./resources/GPT-QuestPro - Questions Browser.png)
+   ![Questions Browser](./resources/GPT-QuestPro-Questions-Browser.PNG)
    This page allows to take the test on a question paper that had already been generated. This allows for saving the API calls to OpenAI.
 
 7. **Questions Editor**
 
-   ![Question Editor](./resources/GPT-QuestPro - QuestionEditor.png)
+   ![Question Editor](./resources/GPT-QuestPro-QuestionEditor.PNG)
    This page allows to edit questions and their responses in case Chat GPT provides incorrect answers or duplicate choices. This is frequent when dealing with math papers so always a good idea to review the questions before handing them over for examination.
 
 
