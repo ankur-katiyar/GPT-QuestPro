@@ -87,7 +87,7 @@ OPENAI_ORG = <your-org>
 
 ## Setting Email
 
-1. **Open or Create `config.ini` File**: 
+1. **Open or Create `config.ini` File in the root directory**: 
    - If the `config.ini` file doesn't exist, create a new file named `config.ini`.
    - If it already exists, open the existing `config.ini` file.
 

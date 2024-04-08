@@ -17,7 +17,8 @@ class App:
     """
 
     def __init__(self):
-        self.question_folder = '.\\Questions\\'
+        #self.question_folder = '.\\Questions\\'
+        self.question_folder = os.path.join('.', 'Questions')
         self.pages = {
             PageEnum.GENERATE_EXAM: GenerateExamPage(),
             PageEnum.QUESTIONS: QuestionsPage(),
